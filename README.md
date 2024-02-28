@@ -3,7 +3,7 @@ File paths of content used in Source Engine games. Materials and textures (.vmt 
 
 # How to use it
 - Precache content in your server-side plugins or scripts.
-- Create soundscripts for your maps.
+- Create soundscape scripts for your maps.
 - Spawn models via `prop_physics_create` or `prop_dynamic_create` console commands (requires `sv_cheats 1`).
 - Play sounds in your game via the `play` console command.
 
